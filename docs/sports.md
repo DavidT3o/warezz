@@ -41,8 +41,8 @@ sidebar_label: Sports
 - [Stream2Watch](https://www.stream2watch.ws/)
 - [Streamwoop](https://streamwoop.net/)
 - [VIPBox](https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which with an friendly UI.
-- [NBAFullHD](https://www.nbafullhd.com/) - Full NBA games.
-- [NBAHDReplay](https://nbahdreplay.com/) - Full NBA games.
+- [NBAFullHD](https://www.nbahd.com/) - Full NBA games.
+- [NBAHDReplay](https://nbahd.com/) - Full NBA games.
 - [WatchRaw](hhttp://watchraw.com/) - Various Sports replays.
 - [WatchWrestling24](hhttp://watchwrestling24.net/) - Replays for MMA, WWE.
 - [Allwrestling](hhttp://www.allwrestling.live/) - Replays for MMA, WWE.
